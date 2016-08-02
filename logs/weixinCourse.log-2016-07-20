@@ -1,0 +1,10 @@
+[INFO ] 2016-07-20 11:00:10,940    org.weixin.main.MenuManager 菜单创建成功！
+[INFO ] 2016-07-20 17:12:08,642    org.weixin.main.MenuManager 菜单创建成功！
+[INFO ] 2016-07-20 17:14:41,035        org.sqlserver.util.Test 1	韩名焕	N171-1202	0.0000	2015-03-26 16:11:26.0	
+[INFO ] 2016-07-20 17:14:41,035        org.sqlserver.util.Test 2	韩名焕	N171-1202	300.0000	2015-03-26 16:11:26.0	
+[INFO ] 2016-07-20 17:14:41,035        org.sqlserver.util.Test 3	韩名焕	N171-1202	200.0000	2015-08-26 11:56:35.0	
+[INFO ] 2016-07-20 17:32:06,313        org.sqlserver.util.Test SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.BuyTimes , A.FdateFROM    [XTTradeList] A ,[XTUserInfo] BWHERE   A.Customerid = '3' AND A.Customerid = B.CustomerIdAND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-20 17:34:35,667        org.sqlserver.util.Test SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.BuyTimes , A.Fdate FROM    [XTTradeList] A ,[XTUserInfo] BWHERE   A.Customerid = '3' AND A.Customerid = B.CustomerIdAND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-20 17:35:21,501        org.sqlserver.util.Test SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.BuyTimes , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] BWHERE   A.Customerid = '3' AND A.Customerid = B.CustomerIdAND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-20 17:35:56,278        org.sqlserver.util.Test SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.BuyTimes , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid = '3' AND A.Customerid = B.CustomerIdAND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-20 17:36:58,788        org.sqlserver.util.Test 1	李岩	N176-2201	500.0000	5	

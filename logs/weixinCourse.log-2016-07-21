@@ -1,0 +1,265 @@
+[INFO ] 2016-07-21 13:34:01,397        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:34:02,281        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 13:34:21,733        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:34:22,559        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 13:39:52,003        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:39:52,978        org.sqlserver.util.Test 
+账户余额：500.0元
+用水户号：500.0000
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 13:40:07,253        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:40:08,216        org.sqlserver.util.Test 
+账户余额：500.0元
+用水户号：N176-2201
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 13:43:48,888        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:43:49,687        org.sqlserver.util.Test 
+账户余额：500.0000元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 13:50:19,944        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:50:20,793        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 13:53:38,577        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:53:39,394        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 13:54:08,137        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:54:08,966        org.sqlserver.util.Test 
+账户余额：500.0000元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 13:55:41,743        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 13:55:42,508        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 14:01:41,445        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 14:01:46,244        org.sqlserver.util.Test 
+账户余额：{0:F2}元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 14:03:34,467        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 14:03:35,256        org.sqlserver.util.Test 
+账户余额：0:F2元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 14:03:58,157        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 14:03:59,005        org.sqlserver.util.Test 
+账户余额：0:F2元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 14:15:51,298        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 14:15:55,156        org.sqlserver.util.Test 
+账户余额：500.00元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 14:25:03,395        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 14:25:04,223        org.sqlserver.util.Test 非常抱歉，没有查询到相关信息！
+[INFO ] 2016-07-21 14:32:41,037        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 14:32:42,034        org.sqlserver.util.Test 
+账户余额：500.00元
+用水户号：3
+用水户名：李岩 
+用户地址：N176-2201
+更新日期：2016-06-01 16:51:56.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 15:00:55,142        org.sqlserver.util.Test 开始查询用户用水信息。。。。。。。
+[INFO ] 2016-07-21 15:29:14,951        org.sqlserver.util.Test 开始调用外部数据库，获取数据
+[INFO ] 2016-07-21 15:29:15,752        org.sqlserver.util.Test 
+账户余额：300.0000元
+用水户号：N166-2202
+用水户名：王俊民 
+用户地址：N166-2202
+更新日期：2016-02-25 10:20:02.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:09:34,197        org.sqlserver.util.Test SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   111AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:09:56,714        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   111AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:10:26,297        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   111    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:10:55,867        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   11    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:11:33,577        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   11    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:11:34,431        org.sqlserver.util.Test 
+账户余额：200.0000元
+用水户号：N171-1202
+用水户名：韩名焕 
+用户地址：N171-1202
+更新日期：2015-08-26 11:56:35.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:14:32,524        org.sqlserver.util.Test 请在CX后添加需要查询的用户号！
+[INFO ] 2016-07-21 16:15:33,049        org.sqlserver.util.Test 对不起 我不知道你在说什么
+[INFO ] 2016-07-21 16:15:44,115        org.sqlserver.util.Test 对不起 我不知道你在说什么
+[INFO ] 2016-07-21 16:15:53,778        org.sqlserver.util.Test 对不起 我不知道你在说什么
+[INFO ] 2016-07-21 16:16:02,728        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =           AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:16:03,466        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:16:37,163        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =           AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:16:37,951        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:17:08,896        org.sqlserver.util.Test 请在CX后添加需要查询的用户号！
+[INFO ] 2016-07-21 16:17:22,233        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =       111111    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:17:23,128        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:18:05,603        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   111111    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:18:06,372        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:18:26,480        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   11    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:18:27,396        org.sqlserver.util.Test 
+账户余额：200.0000元
+用水户号：N171-1202
+用水户名：韩名焕 
+用户地址：N171-1202
+更新日期：2015-08-26 11:56:35.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:30:55,144        org.sqlserver.util.Test 11
+[INFO ] 2016-07-21 16:30:55,144        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   11    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:30:56,007        org.sqlserver.util.Test 
+账户余额：200.0000元
+用水户号：N171-1202
+用水户名：韩名焕 
+用户地址：N171-1202
+更新日期：2015-08-26 11:56:35.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:31:11,885        org.sqlserver.util.Test 3311
+[INFO ] 2016-07-21 16:31:11,886        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   3311    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:31:12,868        org.sqlserver.util.Test 
+账户余额：150.0000元
+用水户号：N29-3502
+用水户名：杨婷婷 
+用户地址：N29-3502
+更新日期：2016-05-29 11:22:10.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:36:41,534        org.sqlserver.util.Test 3311
+[INFO ] 2016-07-21 16:36:41,534        org.sqlserver.util.Test 
+SELECT TOP 1   B.User_Name ,B.Address, A.Income ,  A.Customerid , A.Fdate   FROM   [XTTradeList] A ,[XTUserInfo] B  WHERE   A.Customerid =   3311    AND A.Customerid = B.CustomerId  AND SubId = 11 ORDER BY A.BuyTimes DESC
+[INFO ] 2016-07-21 16:36:42,467        org.sqlserver.util.Test 
+账户余额：150.0000元
+用水户号：N29-3502
+用水户名：杨婷婷 
+用户地址：N29-3502
+更新日期：2016-05-29 11:22:10.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:36:58,665        org.sqlserver.util.Test 3311
+[INFO ] 2016-07-21 16:36:59,580        org.sqlserver.util.Test 
+账户余额：150.0000元
+用水户号：N29-3502
+用水户名：杨婷婷 
+用户地址：N29-3502
+更新日期：2016-05-29 11:22:10.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:37:40,421        org.sqlserver.util.Test 3311
+[INFO ] 2016-07-21 16:37:41,352        org.sqlserver.util.Test 
+账户余额：150.0000元
+用水户号：N29-3502
+用水户名：杨婷婷 
+用户地址：3311
+更新日期：2016-05-29 11:22:10.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:37:56,275        org.sqlserver.util.Test 1
+[INFO ] 2016-07-21 16:37:57,147        org.sqlserver.util.Test 
+账户余额：200.0000元
+用水户号：1
+用水户名：张三 
+用户地址：1
+更新日期：2015-03-13 16:51:38.0
+账户余额=充值金额-表端已用量*用水单价(用水量以每月账单为准)
+
+
+立即缴费
+[INFO ] 2016-07-21 16:38:07,765        org.sqlserver.util.Test 请输入合法的用水户号！
+[INFO ] 2016-07-21 16:38:07,765        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:38:08,565        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:38:28,378        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:38:29,250        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:39:13,482        org.sqlserver.util.Test 请输入合法的用水户号！
+[INFO ] 2016-07-21 16:39:13,482        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:39:14,395        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:40:07,653        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:40:08,601        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:40:48,209        org.sqlserver.util.Test 请输入合法的用水户号！
+[INFO ] 2016-07-21 16:41:04,952        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:41:05,762        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 16:59:29,866        org.sqlserver.util.Test 4545.48 
+[INFO ] 2016-07-21 17:01:45,418        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 17:02:42,856        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 17:03:36,157        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 17:05:04,250        org.sqlserver.util.Test 300.00 
+[INFO ] 2016-07-21 17:15:21,524        org.sqlserver.util.Test 1111111
+[INFO ] 2016-07-21 17:15:22,436        org.sqlserver.util.Test 
+[INFO ] 2016-07-21 17:16:24,437        org.sqlserver.util.Test 1111111
+[INFO ] 2016-07-21 17:16:25,246        org.sqlserver.util.Test 对不起，没用查到此用户信息
